@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code heregit commit -m "first commit"
+	System.out.println("Nie pamiętam javy wcale !");
     }
 }
